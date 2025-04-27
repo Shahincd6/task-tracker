@@ -53,3 +53,9 @@ http://localhost:3000
 Frontend ➔ http://localhost:3000
 Backend APIs ➔ http://localhost:5000/api
 
+
+-Deployment
+Frontend deployed on Vercel: task-tracker-eta-mauve.vercel.app
+Backend deployed on Render: task-tracker-8hs5.onrender.com
+
+
