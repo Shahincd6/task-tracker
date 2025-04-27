@@ -28,6 +28,11 @@ JWT_SECRET=your_secret_key
 NODE_ENV=development
 PORT=5000
 
+Configure API calls:
+
+Inside /frontend/src/services/api.js, make sure the baseURL is set to:
+const API = axios.create({ baseURL: 'http://localhost:5000/api' });
+
 -Start the backend server:
 npm run dev
 or
