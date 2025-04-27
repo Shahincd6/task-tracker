@@ -46,15 +46,14 @@ npm install
 - Start the React app:
 npm start
 The frontend will run at:
-
 http://localhost:3000
 
-✅ Now you can test everything locally by opening:
+ -Now you can test everything locally by opening:
 Frontend ➔ http://localhost:3000
 Backend APIs ➔ http://localhost:5000/api
 
 
--Deployment
+✅Deployment
 Ive deployed the app on Vercel and Render.
 Frontend deployed on Vercel: https://task-tracker-eta-mauve.vercel.app
 Backend deployed on Render: https://task-tracker-8hs5.onrender.com
