@@ -55,7 +55,7 @@ Backend APIs ➔ http://localhost:5000/api
 
 
 -Deployment
-Frontend deployed on Vercel: task-tracker-eta-mauve.vercel.app
-Backend deployed on Render: task-tracker-8hs5.onrender.com
+Frontend deployed on Vercel: https://task-tracker-eta-mauve.vercel.app
+Backend deployed on Render: https://task-tracker-8hs5.onrender.com
 
 
