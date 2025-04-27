@@ -28,19 +28,19 @@ JWT_SECRET=your_secret_key
 NODE_ENV=development
 PORT=5000
 
-Configure API calls:
+3. Configure API calls:
 
 Inside /frontend/src/services/api.js, make sure the baseURL is set to:
 const API = axios.create({ baseURL: 'http://localhost:5000/api' });
 
--Start the backend server:
+4. Start the backend server:
 npm run dev
 or
 npm start
 The backend will run at:
 http://localhost:5000
 
-3. Setup Frontend (React App)
+5. Setup Frontend (React App)
 cd ../frontend
 npm install
 - Start the React app:
@@ -55,6 +55,7 @@ Backend APIs ➔ http://localhost:5000/api
 
 
 -Deployment
+Ive deployed the app on Vercel and Render.
 Frontend deployed on Vercel: https://task-tracker-eta-mauve.vercel.app
 Backend deployed on Render: https://task-tracker-8hs5.onrender.com
 
